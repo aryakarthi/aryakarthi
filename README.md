@@ -1,5 +1,5 @@
 # 💫 Hi🙋🏻‍♂️
-## I am Ariya Perumal , React JS Developer⚛️
+# I am Ariya Perumal , React JS Developer⚛️
 ### - a tech enthusiast who loves to learn about new things🧑🏻‍💻
 
 
